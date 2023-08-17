@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtuple.a  CMakeFiles/tuple.dir/tuple.cc.o CMakeFiles/tuple.dir/scope_exit_trigger.cc.o
+/usr/bin/ranlib libtuple.a

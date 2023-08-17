@@ -1,0 +1,2 @@
+/usr/bin/ar qc libutil.a  CMakeFiles/util.dir/substitute.cc.o CMakeFiles/util.dir/number.cc.o
+/usr/bin/ranlib libutil.a
